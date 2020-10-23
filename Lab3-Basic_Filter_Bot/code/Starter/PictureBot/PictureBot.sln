@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBot", "PictureBot.csproj", "{66ECE597-FB1D-49FE-A632-11564ADC42C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66ECE597-FB1D-49FE-A632-11564ADC42C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ECE597-FB1D-49FE-A632-11564ADC42C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ECE597-FB1D-49FE-A632-11564ADC42C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ECE597-FB1D-49FE-A632-11564ADC42C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3035965-577C-428D-81D0-94C9B3A6D1CE}
+	EndGlobalSection
+EndGlobal
