@@ -43,61 +43,7 @@ You can download the v4 Bot Framework Emulator for testing your bot locally. The
 
 ## Lab 3.0 Create an Azure Web App Bot
 
-A bot created using the Microsoft Bot Framework can be hosted at any publicly-accessible URL.  For the purposes of this lab, we will register our bot using [Azure Bot Service](https://docs.microsoft.com/en-us/bot-framework/bot-service-overview-introduction).
-
-1. Navigate to the [Azure portal](https://portal.azure.com).
-
-1. In the portal, navigate to your resource group, then select **+Add** and search for **bot**.
-
-1. Select **Web App Bot**, and select **Create**.
-
-1. For the name, you'll have to create a unique identifier. We recommend using something along the lines of PictureBot[i][n] where [i] is your initials and [n] is a number (e.g. mine would be PictureBotamt6).
-
-1. Select a region
-
-1. For pricing tier, select **F0 (10K Premium Message)**.
-
-1. Select the Bot template area
-
-1. Select **C#**, then select **Echo Bot**, later we will update it to our our PictureBot.
-
-    ![Bot template area is highlighted and the language and bot type is selected.](../images/lab02-createbot.png 'Select the bot type')
-
-1. Select **OK**, make sure that **Echo Bot** is displayed.
-
-1. Configure a new App service plan (put it in the same location as your bot)
-
-1. You can choose to turn Application Insights on or off.
-
-1. **Do not** change or select on **Auto create App ID and password**, we will get to that later.
-
-1. Select **Create**
-
-1. When it's deployed, navigate to the new Azure Web App Bot Resource.
-
-1. Under **Bot Management**, select **Settings**
-
-1. Select the **Manage** link for the **Microsoft App ID**
-
-![Select the Manage link](../images/ManageBot.png)
-
-1. Select **New client secret**
-
-1. For the name, type **PictureBot**
-
-1. For the expires, select **Never**
-
-1. Select **Add**
-
-1. Record the secret into notepad or similar for later use in the lab(s).
-
-1. Select **Overview**, record the application id into notepad or similar for later use in the lab(s).
-
-1. Navigate back to the **web app bot** resource, under **Bot management**, select the **Test in Web Chat** tab
-
-1. Once it starts, explore what it is capable of doing.  As you will see, it only echos back your message.
-
-![The basic echo bot response](../images/EchoBot.png)
+1. For today, you will not create a Azure Web App Bot, but you will use the following configuration : **Microsoft App ID : 4816a563-debb-452b-b7f7-a676cd283ea5** & **Client Secret : Ag27Yx45~nhV6jMKm_ToJsE4M-3flHLe-E**
 
 ## Lab 3.1: Creating a simple bot and running it
 
