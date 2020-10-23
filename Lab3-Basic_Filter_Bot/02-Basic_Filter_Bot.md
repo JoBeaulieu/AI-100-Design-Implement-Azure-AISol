@@ -14,7 +14,7 @@ We encourage you to [read more](https://ai-ethics.azurewebsites.net/) about the 
 
 ## Pre-requisites
 
-Bot Builder SDK
+### Bot Builder SDK
 
 We will use the Bot Builder template for C# to create bots in this course.
 Download the Bot Builder SDK
@@ -29,7 +29,7 @@ Download the Bot Builder SDK
 
     Select Close. You should now have the bot templates added to your Visual Studio templates.
 
-Bot Emulator
+### Bot Emulator
 
 We will be developing a bot using the latest .NET SDK (v4). In order to do local testing, we'll need to download the Bot Framework Emulator.
 Download the Bot Framework Emulator
