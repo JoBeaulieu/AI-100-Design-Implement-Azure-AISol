@@ -19,16 +19,11 @@ We encourage you to [read more](https://ai-ethics.azurewebsites.net/) about the 
 We will use the Bot Builder template for C# to create bots in this course.
 Download the Bot Builder SDK
 
-    Open a browser window to [Bot Builder SDK v4 Template for C# here](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
-
-
-    Select Download
-
-    Navigate to the download folder location and double-click on the install
-
-    Ensure that all versions of Visual Studio are selected and select Install. If prompted, select End Tasks.
-
-    Select Close. You should now have the bot templates added to your Visual Studio templates.
+Open a browser window to [Bot Builder SDK v4 Template for C# here](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
+Select Download
+Navigate to the download folder location and double-click on the install
+Ensure that all versions of Visual Studio are selected and select Install. If prompted, select End Tasks.
+Select Close. You should now have the bot templates added to your Visual Studio templates.
 
 ### Bot Emulator
 
@@ -37,9 +32,9 @@ Download the Bot Framework Emulator
 
 You can download the v4 Bot Framework Emulator for testing your bot locally. The instructions for the rest of the labs will assume you've downloaded the v4 Emulator.
 
-    Download the emulator by going to [this page](https://github.com/Microsoft/BotFramework-Emulator/releases) and downloading the most recent version of the emulator that has the tag "4.6.0" or higher (select the "*-windows-setup.exe" file, if you are using windows).
+Download the emulator by going to [this page](https://github.com/Microsoft/BotFramework-Emulator/releases) and downloading the most recent version of the emulator that has the tag "4.6.0" or higher (select the "*-windows-setup.exe" file, if you are using windows).
 
-    Note The emulator installs to "C:\Users\_your-username\AppData\Local\Programs\@bfemulatormain\Bot Framework Emulator.exe", but you can gain access to it through the start menu by searching for bot framework.
+Note The emulator installs to "C:\Users\_your-username\AppData\Local\Programs\@bfemulatormain\Bot Framework Emulator.exe", but you can gain access to it through the start menu by searching for bot framework.
 
 
 ## Lab 3.0 Create an Azure Web App Bot
