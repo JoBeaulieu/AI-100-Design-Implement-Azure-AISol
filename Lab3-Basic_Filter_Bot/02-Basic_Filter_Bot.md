@@ -68,8 +68,8 @@ Note The emulator installs to "C:\Users\_your-username\AppData\Local\Programs\@b
 
 ```json
 {
-    "MicrosoftAppId": "YOURAPPID",
-    "MicrosoftAppPassword": "YOURAPPSECRET"
+    "MicrosoftAppId": "4816a563-debb-452b-b7f7-a676cd283ea5",
+    "MicrosoftAppPassword": "Ag27Yx45~nhV6jMKm_ToJsE4M-3flHLe-E"
 }
 ```
 
