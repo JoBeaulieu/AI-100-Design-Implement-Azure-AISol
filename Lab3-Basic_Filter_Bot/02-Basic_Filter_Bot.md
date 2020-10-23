@@ -14,7 +14,32 @@ We encourage you to [read more](https://ai-ethics.azurewebsites.net/) about the 
 
 ## Pre-requisites
 
-1. Follow the directions provided in [Lab1-Technical_Requirements.md](../Lab1-Technical_Requirements/02-Technical_Requirements.md) to download the v4 Bot Framework Emulator to enable you to test your bot locally.
+Bot Builder SDK
+
+We will use the Bot Builder template for C# to create bots in this course.
+Download the Bot Builder SDK
+
+    Open a browser window to Bot Builder SDK v4 Template for C# here
+
+    Select Download
+
+    Navigate to the download folder location and double-click on the install
+
+    Ensure that all versions of Visual Studio are selected and select Install. If prompted, select End Tasks.
+
+    Select Close. You should now have the bot templates added to your Visual Studio templates.
+
+Bot Emulator
+
+We will be developing a bot using the latest .NET SDK (v4). In order to do local testing, we'll need to download the Bot Framework Emulator.
+Download the Bot Framework Emulator
+
+You can download the v4 Bot Framework Emulator for testing your bot locally. The instructions for the rest of the labs will assume you've downloaded the v4 Emulator.
+
+    Download the emulator by going to this page and downloading the most recent version of the emulator that has the tag "4.6.0" or higher (select the "*-windows-setup.exe" file, if you are using windows).
+
+    Note The emulator installs to "C:\Users\_your-username\AppData\Local\Programs\@bfemulatormain\Bot Framework Emulator.exe", but you can gain access to it through the start menu by searching for bot framework.
+
 
 ## Lab 3.0 Create an Azure Web App Bot
 
